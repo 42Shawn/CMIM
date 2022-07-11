@@ -53,7 +53,7 @@ parser.add_argument(
 parser.add_argument(
     '--model_fp_dir',
     default='../cifar100/models_bnn/model_fp.pth.tar',
-    help='dir of fp net')
+    help='dir of fp net. Download the checkpoint at https://drive.google.com/file/d/1y6Z11jGdO9SNHM8Wh6YAcdjGkngyJs_9/view?usp=sharing and put the downloaded file in the default dir ')
 
 parser.add_argument(
     '--dataset',
