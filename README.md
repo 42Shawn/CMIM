@@ -10,7 +10,6 @@ cd CMIM/cifar100
 Then, run our repo:
 ```bash
 python main.py --save='v0' --data_path='path-to-dataset' --gpus='gpu-id' --alpha=3.2
-cd CMIM/cifar100
 ```
 Note that the alpha can be change to conduct ablation studies, and alpha=0 is equal to RBNN itself.
 
