@@ -24,3 +24,6 @@ booktitle={ECCV},
 year={2022}
 }
 ```
+
+**Related Work**    
+Our repo is modified based on the Pytorch implementation of Rotated Binary Neural Network (RBNN, NeurIPS 2020). Thanks to the authors for releasing their codebase!
