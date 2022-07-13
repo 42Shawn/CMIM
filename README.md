@@ -1,4 +1,6 @@
 # CMIM: Network Binarization via Contrastive Learning
+**Yuzhang Shang**, Dan Xu, Bin Duan, Ziliang Zong, Liqiang Nie, and Yan Yan    
+
 The code for the Network Binarization via Contrastive Learning, which has been accepted to ECCV 2022. [paper](https://arxiv.org/abs/2207.02970)
 
 <img src="pipeline.jpg" width="700">    
@@ -32,4 +34,4 @@ year={2022}
 ```
 
 **Related Work**    
-Our repo is modified based on the Pytorch implementation of Rotated Binary Neural Network (RBNN, NeurIPS 2020). Thanks to the authors for releasing their codebase!
+Our repo is modified based on the Pytorch implementations of Forward and Backward Information Retention for Accurate Binary Neural Networks ([IR-Net](https://github.com/htqin/IR-Net), CVPR 2020) and Rotated Binary Neural Network ([RBNN](https://github.com/lmbxmu/RBNN), NeurIPS 2020). Thanks to the authors for releasing their codebase!
