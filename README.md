@@ -1,7 +1,7 @@
 # CMIM: Network Binarization via Contrastive Learning
 The code for the Network Binarization via Contrastive Learning, which has been accepted to ECCV 2022. [paper](https://arxiv.org/abs/2207.02970)
 
-<img src="pipeline.jpg" width="600">    
+<img src="pipeline.jpg" width="700">    
 General Idea of CMIM: Feeding two images into a BNN, and obtaining the three pairs of binary and full-precision activations. Our goal is to embed the activations into a contrastive space, then learn from the pair correlation with the contrastive learning task in Eq.13.
 
 ## Quick Start
