@@ -1,5 +1,5 @@
 # CMIM: Network Binarization via Contrastive Learning
-**Yuzhang Shang**, Dan Xu, Bin Duan, Ziliang Zong, Liqiang Nie, and Yan Yan    
+**Yuzhang Shang**, Dan Xu, Ziliang Zong, Liqiang Nie, and Yan Yan    
 
 The code for the Network Binarization via Contrastive Learning, which has been accepted to ECCV 2022. [paper](https://arxiv.org/abs/2207.02970)
 
