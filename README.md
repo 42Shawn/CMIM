@@ -34,4 +34,4 @@ year={2022}
 ```
 
 **Related Work**    
-Our repo is modified based on the Pytorch implementations of Forward and Backward Information Retention for Accurate Binary Neural Networks ([IR-Net](https://github.com/htqin/IR-Net), CVPR 2020) and Rotated Binary Neural Network ([RBNN](https://github.com/lmbxmu/RBNN), NeurIPS 2020). Thanks to the authors for releasing their codebase!
+Our repo is modified based on the Pytorch implementations of Forward and Backward Information Retention for Accurate Binary Neural Networks ([IR-Net](https://github.com/htqin/IR-Net), CVPR 2020) and Rotated Binary Neural Network ([RBNN](https://github.com/lmbxmu/RBNN), NeurIPS 2020). Thanks to the authors for releasing their codebases!
