@@ -13,10 +13,10 @@ Then, run our repo:
 ```bash
 python main.py --save='v0' --data_path='path-to-dataset' --gpus='gpu-id' --alpha=3.2
 ```
-Note that the alpha can be change to conduct ablation studies, and alpha=0 is equal to RBNN itself.
+Note that the alpha can be change to conduct ablation studies, and alpha=0 is equal to RBNN itself.    
 **Demo Result**   
 RBNN (alpha = 0) => CMIM (alpha = 3.2)    
-65.4 => 71.2
+            65.4 => 71.2
 
 # Reference
 If you find our code useful for your research, please cite our paper.
